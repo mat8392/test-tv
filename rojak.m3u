@@ -1,0 +1,150 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX Action Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/v833Pq98/1200px-Fox-Action-Movies-logo-svg.png" group-title="Movies",FOX Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/52Fg2frj/1280px-Fox-Crime-2017-svg.png" group-title="Movies",FOX Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxfamilymovies" tvg-name="FOX Family Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/jj0XWGVc/1200px-Fox-Family-Movies-logo-svg.png" group-title="Movies",FOX Family Movies
+http://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX Life" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/pTPJCzLn/image.jpg" group-title="Movies",FOX Life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="Movies",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/m2PNmbBV/hbo-logo-thumb800.png" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/X7tKhTvW/1200px-HBO-Family-Asia-logo-svg.png" group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/W1rmPXDk/HBOHits-ASIA.png" group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/rF4Rdz86/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="redbyhbo" tvg-name="Red By HBO" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/K8yktFz1/red-by-hbo.png" group-title="Movies",Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/zGSLjMb0/611-cinemax.png" group-title="Movies",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/0NkzHf7x/TLC-Logo-2016.png" group-title="General",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/GpX40yjD/Nat-Geo-HD.png" group-title="Documentary",National Geographic HD
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/gJ5rjbQk/1200px-Nat-Geo-Wild-logo.png" group-title="Documentary",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnn indonesia" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="News", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/mrNtDRD4/GTV-logo-2017.png" group-title="General", GTV
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-name="Trans7" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News", Trans7
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="metrotv" tvg-name="MetroTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/fbKRsK2T/image.png" group-title="News", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="inews" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/rmVzRb0r/1280px-INews-TV-logo-svg.png" group-title="News", iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="mnc tv" tvg-name="MNC TV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/3NPK1bR9/image.png" group-title="General", MNC TV
+http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/yYZ6xBQG/image.png" group-title="General", RCTI
+http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-name="TransTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="General", TransTV
+http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvri nasional" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="General", TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="nhkworldjapan" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/VLqWbKRW/1200px-NHK-World-svg.png" group-title="General", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.postimg.cc/P5rHgFV6/1200px-Animax-svg.png" group-title="Kids", Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="General", KBS World
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-country="KR" tvg-language="Korea" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="General", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" status="online",Berita RTM (1080p)
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="BernamaTV.my" status="error",Bernama TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" status="online",CinemaWorld (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" status="online",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-id="DramaSangat.my" status="online",Drama Sangat (720p) [Not 24/7]
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-id="eGGNetwork.my" status="online",Egg Network (720p)
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-id="MaahTV.my" status="online",Maah TV (720p) [Not 24/7]
+http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NTV7.my" status="online",NTV 7 (480p) [Not 24/7]
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="OKEY.my" status="online",OKEY (1080p)
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="SukanRTM.my" status="online",Sukan RTM (1080p)
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV1.my" status="online",TV1 (1080p)
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my" status="online",TV2 (1080p)
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.my" status="error",TV3 (720p)
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+#EXTINF:-1 tvg-id="TV6.my" status="online",TV6 (1080p)
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV8.my" status="online",TV8 (480p) [Not 24/7]
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9.my" status="online",TV9 (480p) [Not 24/7]
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-id="TVIKIM.my" status="online",TVIKIM (720p) [Not 24/7]
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" status="online",Astro Awani (720p) [Not 24/7]
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroVaanavil.my" status="blocked",Astro Vaanavil [Geo-blocked]
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
+#EXTINF:-1 tvg-id="Hello.my" status="blocked",Hello [Geo-blocked]
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+
+#EXTINF:-1 tvg-id="TVS.my" status="blocked",TVS (576p) [Geo-blocked]
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="Sports",Astro Arena HD
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA Singapore" tvg-country="SG" tvg-language="Singapore" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8

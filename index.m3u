@@ -16,3 +16,6 @@ channels/jp.m3u
 
 #EXTINF:-1,Astro
 channels/astro.m3u
+
+#EXTINF:-1,Asia
+channels/asia.m3u
